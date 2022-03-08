@@ -1,0 +1,15 @@
+{
+  "name": "@zingle/shape",
+  "version": "0.0.2",
+  "type": "module",
+  "exports": "./shape.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^9.2.0",
+    "mock-fs": "^5.1.2",
+    "sinon": "^13.0.1"
+  }
+}
